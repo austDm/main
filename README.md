@@ -10,6 +10,6 @@ It's not a good idea to use gh pages for routing, but anyway, who cares ( ͡° �
 2. <b>Pure JS form validation with some features:</b> <a href="https://austdm.github.io/internalCourse-form_validation/">LINK.</a></br>
 Btw checkout my awesome roundabout - no copy-paste/libs.
 
-3. <b>Adaptive layout Raccoon blog:</b> <a href="https://https://austdm.github.io/adaptive_layout/">LINK.</a></br>
+3. <b>Adaptive layout Raccoon blog:</b> <a href="https://austdm.github.io/adaptive_layout/">LINK.</a></br>
 LESS+JS. Resize to have fun. Here are some active menus in portable & mobile modes, </br>
 active social links - click to like.
