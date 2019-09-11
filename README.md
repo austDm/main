@@ -14,4 +14,7 @@ Btw checkout my awesome roundabout - no copy-paste/libs.
 LESS+JS. Resize to have fun. There are some active menus in portable & mobile modes, </br>
 active social links - click to like.
 
+4. <b>Translator with a minimalistic UI:</b> <a href="https://austdm.github.io/translateWithAPI/">LINK.</a></br>
+Just to test performance Yandex translate API. Who if not us?
+
 ...will be updated...
